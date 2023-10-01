@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{A55BC858-FD43-431B-AB9D-DBFF8AD90962}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myRazorPagesApp/Pages/BookList/Index.cshtml.cs">
+    <Files>
+      <File FileName="myRazorPagesApp/Pages/BookList/Index.cshtml" Line="45" Column="30" />
+      <File FileName="myRazorPagesApp/Pages/BookList/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="myRazorPagesApp/Pages/BookList/Create.cshtml.cs" />
+      <File FileName="myRazorPagesApp/Pages/BookList/Upsert.cshtml" />
+      <File FileName="myRazorPagesApp/Pages/BookList/Upsert.cshtml.cs" />
+      <File FileName="myRazorPagesApp/wwwroot/js/bookList.js" />
+      <File FileName="myRazorPagesApp/Pages/Index.cshtml" />
+      <File FileName="myRazorPagesApp/Pages/Shared/_Layout.cshtml" />
+      <File FileName="myRazorPagesApp/appsettings.json" />
+      <File FileName="myRazorPagesApp/Model/ApplicationDBContext.cs" />
+      <File FileName="myRazorPagesApp/Model/Book.cs" />
+      <File FileName="myRazorPagesApp/Startup.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="myRazorPagesApp" expanded="True">
+            <Node name="myRazorPagesApp" expanded="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="BookList" expanded="True">
+                  <Node name="Index.cshtml" expanded="True">
+                    <Node name="Index.cshtml.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.myRazorPagesApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
